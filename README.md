@@ -2,7 +2,7 @@
 This contain a Looker Studio  Dashboard of Smartphones Market Analysis.
 
 
-# 📱 Smartphone Market Analysis Dashboard
+# 📱 Smartphone Market Analysis Dashboard  📊 [Click and go to Dashboard](https://lookerstudio.google.com/reporting/bf2b3d25-d10c-4e8c-9579-f1e7b13a872b)
 
 An interactive and visually rich **Business Intelligence Dashboard** built with **Looker Studio**, this project provides a comprehensive analysis of the smartphone market—highlighting key trends, performance metrics, feature comparisons, and user satisfaction insights.
 
