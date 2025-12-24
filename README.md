@@ -21,6 +21,8 @@ The goal of this dashboard is to turn raw smartphone data into actionable insigh
 - 5G adoption and more
 
 ---
+> 📷 *Preview:*
+![a](page01.png)
 
 
 ## 🧭 Dashboard Navigation Structure
@@ -34,7 +36,7 @@ The dashboard is organized into four core sections, each designed to deliver tar
 This section provides a breakdown of the smartphone market by brand, price range, and 5G adoption. It highlights how different brands perform across various price segments and how modern technologies like 5G are being adopted across devices.
 
 > 📷 *Preview:*
-![a](page 01.png)
+![a](page02.png)
 
 ---
 
@@ -43,7 +45,7 @@ This section provides a breakdown of the smartphone market by brand, price range
 This section focuses on how smartphone pricing relates to technical performance. It helps uncover trends such as whether higher prices correspond with better processors, battery capacity, or overall user satisfaction.
 
 > 📷 *Preview:*
-![Performance and Price Analysis](https://your-image-link.com/performance-price-analysis.png)
+![Performance and Price Analysis](page03.png)
 
 ---
 
@@ -52,7 +54,7 @@ This section focuses on how smartphone pricing relates to technical performance.
 This section offers an in-depth view of how specific features—like camera megapixels, RAM, and battery life—impact user ratings. It's a valuable resource for understanding which features users care about most when evaluating a smartphone.
 
 > 📷 *Preview:*
-![Feature Analysis](https://your-image-link.com/feature-analysis.png)
+![Feature Analysis](page04.png)
 
 ---
 
@@ -61,7 +63,10 @@ This section offers an in-depth view of how specific features—like camera mega
 This section dives into the factors that influence user satisfaction, including operating systems, screen specifications, and overall design. It also includes a correlation analysis to reveal which features have the greatest impact on customer ratings.
 
 > 📷 *Preview:*
-![User Satisfaction Analysis](https://your-image-link.com/user-satisfaction-analysis.png)
+![User Satisfaction Analysis](page05.png)
 
 ---
+
+Please feel free to explore my profile and GitHub. If you find them interesting, let’s connect and collaborate.
+
 
